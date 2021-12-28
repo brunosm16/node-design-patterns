@@ -1,0 +1,1 @@
+exports.log = () => console.log('Printing this message inside printer module')

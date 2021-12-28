@@ -1,0 +1,1 @@
+require('./logger').customMessage = () => console.log('this is a custom message')
